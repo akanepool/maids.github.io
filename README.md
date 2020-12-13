@@ -1,1 +1,1 @@
-# Cardano testnet stake pool
+# Cardano Testnet stake pool
